@@ -1,0 +1,74 @@
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\Packet Redirector.csproj.AssemblyReference.cache
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\Avalonia\Resources.Inputs.cache
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\Avalonia\resources
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\Packet Redirector.GeneratedMSBuildEditorConfig.editorconfig
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\Packet Redirector.AssemblyInfoInputs.cache
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\Packet Redirector.AssemblyInfo.cs
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\Packet Redirector.csproj.CoreCompileInputs.cache
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\Packet Redirector.dll
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\refint\Packet Redirector.dll
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\Packet Redirector.pdb
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Packet Redirector.exe
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Packet Redirector.deps.json
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Packet Redirector.runtimeconfig.json
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Packet Redirector.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Packet Redirector.pdb
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Base.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Controls.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.DesignerSupport.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Dialogs.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Markup.Xaml.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Markup.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Metal.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.MicroCom.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.OpenGL.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Vulkan.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Controls.ColorPicker.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Desktop.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Diagnostics.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Fonts.Inter.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.FreeDesktop.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Native.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.ReactiveUI.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Remote.Protocol.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Skia.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Themes.Fluent.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Themes.Simple.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Win32.Automation.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.Win32.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Avalonia.X11.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\CommunityToolkit.Mvvm.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\DynamicData.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\HarfBuzzSharp.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\MicroCom.Runtime.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\ReactiveUI.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\SkiaSharp.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Splat.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\System.Reactive.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Tmds.DBus.Protocol.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\win-arm64\native\av_libglesv2.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\win-x64\native\av_libglesv2.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\win-x86\native\av_libglesv2.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\osx\native\libAvaloniaNative.dylib
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\linux-arm\native\libSkiaSharp.so
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\linux-arm64\native\libSkiaSharp.so
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\linux-x64\native\libSkiaSharp.so
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\Packet R.590C2FAF.Up2Date
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\Packet Redirector.genruntimeconfig.cache
+E:\rider\Packet Redirector\Packet Redirector\obj\Debug\net9.0\ref\Packet Redirector.dll
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Locales\en.json
+E:\rider\Packet Redirector\Packet Redirector\bin\Debug\net9.0\Locales\ko.json

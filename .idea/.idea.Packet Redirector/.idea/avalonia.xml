@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Packet Redirector/App.axaml" value="Packet Redirector/Packet Redirector.csproj" />
+        <entry key="Packet Redirector/Views/MainWindow.axaml" value="Packet Redirector/Packet Redirector.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

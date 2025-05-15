@@ -1,0 +1,9 @@
+{
+  "ReceiveProtocol": "UDP",
+  "ReceiveIP": "127.0.0.1",
+  "ReceivePort": 39540,
+  "SendProtocol": "UDP",
+  "SendIP": "127.0.0.1",
+  "SendPort": 39541,
+  "Language": "\uD55C\uAD6D\uC5B4"
+}

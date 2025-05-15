@@ -1,0 +1,4 @@
+E:\rider\Packet Redirector\Packet Redirector\bin\Release\net9.0\win-x64\publish\Packet Redirector.pdb
+E:\rider\Packet Redirector\Packet Redirector\bin\Release\net9.0\win-x64\publish\Locales\en.json
+E:\rider\Packet Redirector\Packet Redirector\bin\Release\net9.0\win-x64\publish\Locales\ko.json
+E:\rider\Packet Redirector\Packet Redirector\bin\Release\net9.0\win-x64\publish\Packet Redirector.exe

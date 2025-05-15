@@ -1,0 +1,15 @@
+﻿{
+  "lang": "한국어",
+  "text": {
+    "title": "패킷 리다이렉터",
+    "start": "시작",
+    "stop": "정지",
+    "receive_settings": "수신 설정",
+    "send_settings": "송신 설정",
+    "protocol": "프로토콜",
+    "ip": "아이피",
+    "port": "포트",
+    "language": "언어",
+    "last_packet": "최근 수신 패킷"
+  }
+}

@@ -1,0 +1,8 @@
+[2025-05-15 16:39:39] The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Net.Sockets.SocketReceiveFromResult>.GetResult(Int16 token)
+   at System.Net.Sockets.UdpClient.<ReceiveAsync>g__WaitAndWrap|62_0(ValueTask`1 task)
+   at PacketRedirector.Services.RedirectorService.RunUdpRedirectAsync(RedirectSettings settings, CancellationToken token) in E:\rider\Packet Redirector\Packet Redirector\Services\RediectorService.cs:line 58
+
