@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Packet Redirector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c473ce9127956928cf3ed523e08f8858ac0d2f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Packet Redirector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Packet Redirector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

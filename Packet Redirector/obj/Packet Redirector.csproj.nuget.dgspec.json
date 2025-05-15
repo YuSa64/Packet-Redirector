@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\rider\\Packet Redirector\\Packet Redirector\\Packet Redirector.csproj": {}
+    "E:\\rider\\Packet-Redirector\\Packet Redirector\\Packet Redirector.csproj": {}
   },
   "projects": {
-    "E:\\rider\\Packet Redirector\\Packet Redirector\\Packet Redirector.csproj": {
+    "E:\\rider\\Packet-Redirector\\Packet Redirector\\Packet Redirector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\rider\\Packet Redirector\\Packet Redirector\\Packet Redirector.csproj",
+        "projectUniqueName": "E:\\rider\\Packet-Redirector\\Packet Redirector\\Packet Redirector.csproj",
         "projectName": "Packet Redirector",
-        "projectPath": "E:\\rider\\Packet Redirector\\Packet Redirector\\Packet Redirector.csproj",
+        "projectPath": "E:\\rider\\Packet-Redirector\\Packet Redirector\\Packet Redirector.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\rider\\Packet Redirector\\Packet Redirector\\obj\\",
+        "outputPath": "E:\\rider\\Packet-Redirector\\Packet Redirector\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
